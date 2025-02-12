@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b9785b45bfee014a8c9b8ffe9079e4f
+timeCreated: 1493735367
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GUI/PopUps/Warning/5_MovesLeft.prefab
+  uploadId: 727942

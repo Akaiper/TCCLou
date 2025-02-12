@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1aaba869e1bda4247a7c6b26e384bcf1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Bombs/DynamicMatchBombPrefabs/Private/Honey/HoneyDynamicMatchBombLinHor.prefab
+  uploadId: 727942

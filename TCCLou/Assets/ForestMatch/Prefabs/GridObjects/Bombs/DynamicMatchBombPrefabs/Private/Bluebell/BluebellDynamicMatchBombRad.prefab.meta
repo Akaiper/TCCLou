@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a02928a17f56f3e4c90ce6bc636d89a1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Bombs/DynamicMatchBombPrefabs/Private/Bluebell/BluebellDynamicMatchBombRad.prefab
+  uploadId: 727942

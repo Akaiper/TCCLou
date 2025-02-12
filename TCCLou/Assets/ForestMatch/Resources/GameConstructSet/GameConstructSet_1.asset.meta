@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f83843817f59c243b5d8b50e6ba7382
+timeCreated: 1492013347
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Resources/GameConstructSet/GameConstructSet_1.asset
+  uploadId: 727942

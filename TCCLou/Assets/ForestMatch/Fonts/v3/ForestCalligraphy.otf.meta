@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 14fefa01643586247ae2beb4dd036bb4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Forest Calligraphy
+  fontNames:
+  - Forest Calligraphy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Fonts/v3/ForestCalligraphy.otf
+  uploadId: 727942

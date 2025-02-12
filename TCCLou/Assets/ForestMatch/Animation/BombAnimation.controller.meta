@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4bde10d34956da549b2186fde3c740fa
+timeCreated: 1506939281
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Animation/BombAnimation.controller
+  uploadId: 727942

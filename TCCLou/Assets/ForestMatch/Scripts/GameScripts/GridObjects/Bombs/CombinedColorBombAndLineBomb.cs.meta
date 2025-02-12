@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0af256b0bb7f1b6428c698b90a7ea798
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Scripts/GameScripts/GridObjects/Bombs/CombinedColorBombAndLineBomb.cs
+  uploadId: 727942

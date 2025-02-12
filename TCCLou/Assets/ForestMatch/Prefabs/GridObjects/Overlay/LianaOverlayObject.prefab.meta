@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0d40543d8571d3246a9389f678cff2fe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Overlay/LianaOverlayObject.prefab
+  uploadId: 727942

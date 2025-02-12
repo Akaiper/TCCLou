@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1d7af9546fa0654b945310e6e8f08dd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Boosters/Shuffle/ShuffleShop/PurchaseShufflePack_5.asset
+  uploadId: 727942

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ce75222a1d905fb4db21de9533b92da8
+timeCreated: 1505994495
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Boosters/ColorBomb/BoosterColorBombMissionGUI.prefab
+  uploadId: 727942

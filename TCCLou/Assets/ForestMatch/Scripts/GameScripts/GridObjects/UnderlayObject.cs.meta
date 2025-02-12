@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e30e2c01cc51a7c4eafd2c7be7c38992
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Scripts/GameScripts/GridObjects/UnderlayObject.cs
+  uploadId: 727942

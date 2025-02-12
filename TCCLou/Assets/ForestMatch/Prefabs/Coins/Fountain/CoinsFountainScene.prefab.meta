@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 13b044e46aa140f4f836af4d5ab13669
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Coins/Fountain/CoinsFountainScene.prefab
+  uploadId: 727942

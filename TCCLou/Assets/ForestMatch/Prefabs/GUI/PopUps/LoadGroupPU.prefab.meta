@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27c83621becdd3d498833e3bd22b039d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GUI/PopUps/LoadGroupPU.prefab
+  uploadId: 727942

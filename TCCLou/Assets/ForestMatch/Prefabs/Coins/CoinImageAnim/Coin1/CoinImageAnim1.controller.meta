@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f35a920cd7f95f547b0203160ef7bd1b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Coins/CoinImageAnim/Coin1/CoinImageAnim1.controller
+  uploadId: 727942

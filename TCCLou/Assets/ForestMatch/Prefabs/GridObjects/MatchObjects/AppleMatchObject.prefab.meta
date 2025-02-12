@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6d14d3cdf90c494596e8b9bbf2fa0c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/MatchObjects/AppleMatchObject.prefab
+  uploadId: 727942

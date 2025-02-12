@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bece76b497a92c946a112112d29a6fb8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Bombs/DynamicMatchBombPrefabs/Private/Honey/HoneyDynamicMatchBombRad.prefab
+  uploadId: 727942

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 029e5f0e35154444d9e68990d6655b89
+timeCreated: 1468268058
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Animation, FX/Particles/part_ice.mat
+  uploadId: 727942

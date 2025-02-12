@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d1ab0c8d4c67e94e9aee6a2e16ccb26
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Coins/CoinSpriteAnim/CoinSpinSprite2/CoinSpin2.controller
+  uploadId: 727942

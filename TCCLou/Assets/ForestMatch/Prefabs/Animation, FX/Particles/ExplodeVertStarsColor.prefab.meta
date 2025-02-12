@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e658f24b86b76da4daddb40de30d8472
+timeCreated: 1494569043
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Animation, FX/Particles/ExplodeVertStarsColor.prefab
+  uploadId: 727942

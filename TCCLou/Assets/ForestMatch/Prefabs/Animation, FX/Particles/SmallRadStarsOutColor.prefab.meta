@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 45f594e04272b5643906c1538c5db709
+timeCreated: 1493447566
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Animation, FX/Particles/SmallRadStarsOutColor.prefab
+  uploadId: 727942

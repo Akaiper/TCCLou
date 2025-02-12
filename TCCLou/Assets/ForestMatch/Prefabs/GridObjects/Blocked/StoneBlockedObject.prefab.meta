@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2b7d2ddf34952245a4ccb1b9bc4efc0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Blocked/StoneBlockedObject.prefab
+  uploadId: 727942

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7711de08a77d2e343867fe2429ea28b5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Animation, FX/Explosion/BombExplodeAnimation/BombExplodeRad_Small.prefab
+  uploadId: 727942

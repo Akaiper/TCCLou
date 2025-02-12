@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43acbbadaa9f4fc43acaab186d4ba4b0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Boosters/Hammer/HammerShop/PurchaseHammerPack_1.asset
+  uploadId: 727942

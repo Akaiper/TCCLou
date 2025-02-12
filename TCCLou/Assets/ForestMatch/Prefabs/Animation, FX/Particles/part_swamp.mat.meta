@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba4ccfe51b2a410498d6e080efd56abe
+timeCreated: 1468268058
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Animation, FX/Particles/part_swamp.mat
+  uploadId: 727942

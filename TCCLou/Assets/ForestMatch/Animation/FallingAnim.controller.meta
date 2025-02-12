@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 971ae3b13b1a88a40bc625f04fddcbe3
+timeCreated: 1506675694
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Animation/FallingAnim.controller
+  uploadId: 727942

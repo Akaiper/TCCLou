@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0580483a3f42e4240a085c836590ec7f
+timeCreated: 1507296099
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Animation/BombExplodeBigRad/bomb_explodebig_rad.anim
+  uploadId: 727942

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2f496cbb6a4bea64eb5297de28d9f7e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Scripts/GUI/StartMap/StarChestGUIController.cs
+  uploadId: 727942

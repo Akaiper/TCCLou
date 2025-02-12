@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b21ba2c8e358964c88aa0d275a2ba13
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Boosters/Magnet/BoosterMagnet.asset
+  uploadId: 727942

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef96ead3b62b9a24faef691592245f97
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GUI/PopUps/DailyReward/DailyRewardPU.prefab
+  uploadId: 727942

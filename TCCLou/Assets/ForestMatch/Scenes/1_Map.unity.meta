@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c38800e2504914240b295231b4681fe2
+timeCreated: 1488874635
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Scenes/1_Map.unity
+  uploadId: 727942

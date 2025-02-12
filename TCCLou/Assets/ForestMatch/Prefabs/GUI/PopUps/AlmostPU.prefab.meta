@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3b35e3fd205eb744ebe80a2511957dd0
+timeCreated: 1506409074
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GUI/PopUps/AlmostPU.prefab
+  uploadId: 727942

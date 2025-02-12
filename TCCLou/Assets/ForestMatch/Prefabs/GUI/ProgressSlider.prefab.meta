@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db64143ee79181549a5eaa665bfcdc53
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GUI/ProgressSlider.prefab
+  uploadId: 727942

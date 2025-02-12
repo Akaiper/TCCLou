@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4ac7381f9c227384a925cea46fc4a05c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GUI/ProgressBarSlider.prefab
+  uploadId: 727942

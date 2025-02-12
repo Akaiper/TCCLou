@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 59b39bf74d0e30b4693f5dcdc072484e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 190
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Scripts/MKMatchUtils/LifeTimers/InfiniteLifeTimer.cs
+  uploadId: 727942

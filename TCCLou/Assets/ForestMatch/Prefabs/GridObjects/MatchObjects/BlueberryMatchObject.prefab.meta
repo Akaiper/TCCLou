@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 713751d5edadd43439e62b610a5ea637
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/MatchObjects/BlueberryMatchObject.prefab
+  uploadId: 727942

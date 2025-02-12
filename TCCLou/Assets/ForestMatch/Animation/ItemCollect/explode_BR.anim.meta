@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1163a179e7f267749b258305b974842f
+timeCreated: 1507475843
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Animation/ItemCollect/explode_BR.anim
+  uploadId: 727942

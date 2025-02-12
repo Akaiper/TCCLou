@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec38c313e238d0347bd5d360875290fa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Boosters/TimePlus/TimePlus30Shop/PurchaseTimePlus30Pack_5.asset
+  uploadId: 727942

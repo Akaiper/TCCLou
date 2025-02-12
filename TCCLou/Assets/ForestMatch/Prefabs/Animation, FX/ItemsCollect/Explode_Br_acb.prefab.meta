@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c5e55b9c3ca08a4dacd6a20a619553c
+timeCreated: 1507476409
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Animation, FX/ItemsCollect/Explode_Br_acb.prefab
+  uploadId: 727942

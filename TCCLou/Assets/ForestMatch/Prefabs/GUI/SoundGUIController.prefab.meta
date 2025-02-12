@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1dec89a809086e64a96fcdb55124573d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GUI/SoundGUIController.prefab
+  uploadId: 727942

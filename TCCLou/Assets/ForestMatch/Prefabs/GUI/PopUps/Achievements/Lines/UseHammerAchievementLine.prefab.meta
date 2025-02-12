@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f892ca394dcdac345b1bf078c844d603
+timeCreated: 1493816696
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GUI/PopUps/Achievements/Lines/UseHammerAchievementLine.prefab
+  uploadId: 727942

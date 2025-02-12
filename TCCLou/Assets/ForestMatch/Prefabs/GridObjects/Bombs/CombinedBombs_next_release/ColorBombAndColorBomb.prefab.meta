@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a70a000d7a87bc04b82330a22154d279
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Bombs/CombinedBombs_next_release/ColorBombAndColorBomb.prefab
+  uploadId: 727942

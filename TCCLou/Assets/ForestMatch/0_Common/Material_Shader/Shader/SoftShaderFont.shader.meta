@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4e8220a435b2d544e8577110657ad3df
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/0_Common/Material_Shader/Shader/SoftShaderFont.shader
+  uploadId: 727942

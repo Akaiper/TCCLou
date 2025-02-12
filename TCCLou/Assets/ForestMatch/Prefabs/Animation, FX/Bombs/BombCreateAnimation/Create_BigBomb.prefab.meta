@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 34eaa53d79841f24ba3d5bcb4bf85702
+timeCreated: 1507476772
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Animation, FX/Bombs/BombCreateAnimation/Create_BigBomb.prefab
+  uploadId: 727942

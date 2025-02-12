@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea7c2fefd3a5a0b4c8d358baadaabe00
+timeCreated: 1507296099
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Animation/BreakProtector/breakLiana.anim
+  uploadId: 727942

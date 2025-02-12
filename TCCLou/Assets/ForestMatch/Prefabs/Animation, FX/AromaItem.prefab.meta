@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c8fc7624170797141993ad0cdf660565
+timeCreated: 1507640503
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Animation, FX/AromaItem.prefab
+  uploadId: 727942

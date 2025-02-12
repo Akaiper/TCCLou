@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4cc4358624499dc438a78199fcb3c0af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Scripts/MKUtils/Extensions/TextExtension.cs
+  uploadId: 727942

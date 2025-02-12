@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 21b8c3650fb1eda45a5cd3c1138630c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Scripts/MKUtils/GUI/WarningMessController.cs
+  uploadId: 727942

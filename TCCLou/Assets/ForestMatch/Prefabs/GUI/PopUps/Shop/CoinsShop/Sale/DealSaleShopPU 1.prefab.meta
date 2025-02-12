@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0564c386461229848b042f54debb1a43
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GUI/PopUps/Shop/CoinsShop/Sale/DealSaleShopPU
+    1.prefab
+  uploadId: 727942

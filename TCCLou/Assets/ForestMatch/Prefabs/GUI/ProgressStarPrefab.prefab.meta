@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bd0445c2ea624f74496ff7a0e14cd6f9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GUI/ProgressStarPrefab.prefab
+  uploadId: 727942

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: adf70fc7fda151348935f0a59220775d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Bombs/DynamicMatchBombPrefabs/Private/Blueberry/BlueberryDynamicMatchBombLinHor.prefab
+  uploadId: 727942

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f453aa8cd454317498a781b8d788cd2d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Boosters/Wand/BoosterWandFunc.prefab
+  uploadId: 727942

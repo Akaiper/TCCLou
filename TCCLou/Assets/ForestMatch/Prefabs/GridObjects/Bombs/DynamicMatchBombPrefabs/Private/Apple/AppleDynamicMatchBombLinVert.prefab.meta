@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 02a6e7a5701f9c342b7e53b603c66d4e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Bombs/DynamicMatchBombPrefabs/Private/Apple/AppleDynamicMatchBombLinVert.prefab
+  uploadId: 727942

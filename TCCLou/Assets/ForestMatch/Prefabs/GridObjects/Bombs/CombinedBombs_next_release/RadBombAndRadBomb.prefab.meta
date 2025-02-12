@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3d9b4caddf8f634eb6257312b55c586
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Bombs/CombinedBombs_next_release/RadBombAndRadBomb.prefab
+  uploadId: 727942

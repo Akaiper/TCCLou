@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7815e9916c9a8cf4f9de33383ebc7148
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Bombs/DynamicClickBombPrefabs/Private_next_releases/AppleDynamicClickBombColor.prefab
+  uploadId: 727942

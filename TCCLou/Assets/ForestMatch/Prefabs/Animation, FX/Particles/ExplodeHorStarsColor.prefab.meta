@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 497dd6aae06acdd42af64074c4a46b01
+timeCreated: 1493447568
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Animation, FX/Particles/ExplodeHorStarsColor.prefab
+  uploadId: 727942

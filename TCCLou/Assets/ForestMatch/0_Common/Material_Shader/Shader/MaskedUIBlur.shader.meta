@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9de2589bf1f81ce4c973723e74fbbaf6
+timeCreated: 1506503526
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/0_Common/Material_Shader/Shader/MaskedUIBlur.shader
+  uploadId: 727942

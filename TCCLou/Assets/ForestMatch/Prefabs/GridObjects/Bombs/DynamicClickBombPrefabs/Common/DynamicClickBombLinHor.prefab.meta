@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3023ac05a94b6284a89a3a88d5ffa829
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Bombs/DynamicClickBombPrefabs/Common/DynamicClickBombLinHor.prefab
+  uploadId: 727942

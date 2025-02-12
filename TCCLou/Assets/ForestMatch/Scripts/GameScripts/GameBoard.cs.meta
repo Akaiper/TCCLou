@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a115ce82750218348afe481a062a030e
+timeCreated: 1495036115
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 220
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Scripts/GameScripts/GameBoard.cs
+  uploadId: 727942

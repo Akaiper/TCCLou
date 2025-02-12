@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c880c82c1c5ec0e40b744a251422c8ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Resources/LevelConstructSets/Mkey_LevelConstructSet
+    5.asset
+  uploadId: 727942

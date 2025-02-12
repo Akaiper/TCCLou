@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 439f921bd8329f24fa552ef5ea14866a
+timeCreated: 1494576013
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Animation, FX/Particles/ExplodeRadIceColor.prefab
+  uploadId: 727942

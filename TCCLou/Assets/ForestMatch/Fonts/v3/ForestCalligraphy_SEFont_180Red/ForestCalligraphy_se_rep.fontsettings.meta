@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58403d82546d015469965c8a42deade3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 12800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Fonts/v3/ForestCalligraphy_SEFont_180Red/ForestCalligraphy_se_rep.fontsettings
+  uploadId: 727942

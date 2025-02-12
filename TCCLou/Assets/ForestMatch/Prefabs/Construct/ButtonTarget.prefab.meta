@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd7636fab7fba654198aa27eb00cc33f
+timeCreated: 1492325325
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Construct/ButtonTarget.prefab
+  uploadId: 727942

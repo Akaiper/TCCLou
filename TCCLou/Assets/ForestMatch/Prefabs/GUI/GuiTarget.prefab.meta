@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59fa539adeee1464b9136fe6a59a3f42
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GUI/GuiTarget.prefab
+  uploadId: 727942

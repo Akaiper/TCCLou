@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 18952acea1a94884d861f9309a4550e4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Bombs/StaticMatchBombPrefabs/Private_next_releases/CloverStaticMatchBombColor.prefab
+  uploadId: 727942

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 899489513cd136c409e8e200458558f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Construct/Mission/IncDecObjectPrefab.prefab
+  uploadId: 727942

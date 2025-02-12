@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73d09754ab4c79a4da3fc5a8f3e3dc81
+timeCreated: 1468268058
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Animation, FX/Particles/part_wood.mat
+  uploadId: 727942

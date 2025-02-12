@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e508c1d9bd4b02e45867d0c3e20a8d40
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Bombs/DynamicMatchBombPrefabs/Private/Clover/CloverDynamicMatchBombLinVert.prefab
+  uploadId: 727942

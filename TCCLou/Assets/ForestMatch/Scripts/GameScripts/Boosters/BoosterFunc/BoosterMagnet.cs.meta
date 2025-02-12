@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e459b10309fbf454e97b95a1219f48bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Scripts/GameScripts/Boosters/BoosterFunc/BoosterMagnet.cs
+  uploadId: 727942

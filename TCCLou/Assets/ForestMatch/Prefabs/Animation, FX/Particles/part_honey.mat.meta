@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 449b104de73c6ce439af9beeb7f03ee2
+timeCreated: 1468268058
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Animation, FX/Particles/part_honey.mat
+  uploadId: 727942

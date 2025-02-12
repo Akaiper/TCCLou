@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a0278848984345541a53bf77b4f8f9d6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/Bombs/DynamicClickBombPrefabs/Private_next_releases/ChanterelleDynamicClickBombColor.prefab
+  uploadId: 727942

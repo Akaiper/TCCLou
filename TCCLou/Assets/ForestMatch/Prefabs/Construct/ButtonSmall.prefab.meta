@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2dbad16d67cc8942afa665f6d9b53f4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/Construct/ButtonSmall.prefab
+  uploadId: 727942

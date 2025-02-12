@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8ca68da4d40b224fb870ade2dc2f1bc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GridObjects/MatchObjects/HoneyMatchObject.prefab
+  uploadId: 727942

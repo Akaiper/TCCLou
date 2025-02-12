@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73505f1b235961947a7295ec93e7b068
+timeCreated: 1491941009
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/Prefabs/GUI/PopUps/VictoryPopUp.prefab
+  uploadId: 727942

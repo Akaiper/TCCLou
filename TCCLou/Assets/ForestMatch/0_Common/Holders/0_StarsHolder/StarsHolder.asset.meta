@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9cd9bd42e29574e4fbbb5ec7d9f28b15
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103012
+  packageName: MK - Forest Match 3 Game Asset
+  packageVersion: 4.1.0
+  assetPath: Assets/ForestMatch/0_Common/Holders/0_StarsHolder/StarsHolder.asset
+  uploadId: 727942
