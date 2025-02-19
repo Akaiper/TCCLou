@@ -66,7 +66,7 @@ MonoBehaviour:
   levelMission:
     description: Mission
     timeConstrain: 0
-    movesConstrain: 45
+    movesConstrain: 10
     scoreTarget: 0
     targets:
       list:

@@ -36,7 +36,6 @@ MonoBehaviour:
   - {fileID: 1189668015041816824, guid: 713751d5edadd43439e62b610a5ea637, type: 3}
   - {fileID: 1189668015041816824, guid: b237e8aa6eb5905468bb409ce71d4e78, type: 3}
   - {fileID: 1189668015041816824, guid: 2f120c0a5b43d2844b00fae152146052, type: 3}
-  - {fileID: 1189668015041816824, guid: 4dc527365c3b0474798786d76e6d724f, type: 3}
   - {fileID: 1189668015041816824, guid: d8ca68da4d40b224fb870ade2dc2f1bc, type: 3}
   overlayObjects:
   - {fileID: 5623435986698399764, guid: 23fdcfc407bef8f4ca5876b7a31fc3c4, type: 3}
