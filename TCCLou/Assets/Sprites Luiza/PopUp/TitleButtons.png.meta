@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 199e6cf6bdbc6e146bda35e7354b7f21
+guid: af5dcabc899ef6447a185336222cf93d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4030383246944414172
-    second: Fundo-Gameplay 1_0
+      213: 3163320448544514767
+    second: Group 100 (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 22
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fundo-Gameplay 1_0
+      name: Group 100 (1)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 360
-        height: 640
+        width: 542
+        height: 463
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd9aece853ccee730800000000000000
-      internalID: 4030383246944414172
+      spriteID: fc2a93e103f56eb20800000000000000
+      internalID: 3163320448544514767
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Fundo-Gameplay 1_0: 4030383246944414172
+      Group 100 (1)_0: 3163320448544514767
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
