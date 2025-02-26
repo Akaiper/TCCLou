@@ -48,6 +48,7 @@ namespace Mkey
         [SerializeField]
         private RectTransform flyTarget;
         public SpriteRenderer backGround;
+        public Sprite backGroundSprite;
         public GameConstructor gConstructor;
         public BombCreator bombCreator;
         [SerializeField]
@@ -399,7 +400,7 @@ namespace Mkey
             Debug.Log("additional level sets: " + ((LcSetAdds!=null) ? LcSetAdds.Count.ToString()  : "not found"));
             Debug.Log("curr level: " + GameLevelHolder.CurrentLevel);
 
-            BackGround = GOSet.GetBackGround(MainLCSet.BackGround);
+            BackGround = backGroundSprite;
 
             if (GMode == GameMode.Play)
             {

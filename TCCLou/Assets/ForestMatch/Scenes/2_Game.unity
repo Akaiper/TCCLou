@@ -1978,6 +1978,8 @@ MonoBehaviour:
   addPosition: {fileID: 0}
   flyTarget: {fileID: 1399140238}
   backGround: {fileID: 569}
+  backGroundSprite: {fileID: 4030383246944414172, guid: 199e6cf6bdbc6e146bda35e7354b7f21,
+    type: 3}
   gConstructor: {fileID: 964}
   bombCreator: {fileID: 3145273581458713270, guid: f0d63e3703fee6b4a9e50feb8b4a47cd,
     type: 3}
@@ -10183,7 +10185,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14e67f867c16d754daeeae8fde59de1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  music: {fileID: 8300000, guid: b518fd28dbf079f41868078594679bcf, type: 3}
+  music: {fileID: 8300000, guid: c52edab67c2f042499069b19a3f2b6a3, type: 3}
   buttonClick: {fileID: 8300000, guid: c15d00750cfc355468647ba9125c4e9b, type: 3}
   openWindow: {fileID: 8300000, guid: ddbab9f5de8868f4a90c18fb671ea389, type: 3}
   closeWindow: {fileID: 8300000, guid: ddbab9f5de8868f4a90c18fb671ea389, type: 3}
