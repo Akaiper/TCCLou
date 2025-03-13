@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: ebc0fa28fe2e4ed43b647fd4d74f970c
+guid: e0bbe51f600994345a2e8568e15e5f9a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 729840642494031660
-    second: Group 98_0
+      213: 5412015603539297487
+    second: Group 157 (3)_0
+  - first:
+      213: 2367701205532932170
+    second: Group 157 (3)_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -126,23 +129,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Group 98_0
+      name: Group 157 (3)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 542
-        height: 438
+        x: 1
+        y: 1
+        width: 98
+        height: 98
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 58, y: 61, z: 56, w: 113}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c27ef7e823ae02a00800000000000000
-      internalID: 729840642494031660
+      spriteID: fc4c4df64875b1b40800000000000000
+      internalID: 5412015603539297487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 157 (3)_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 218
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48fd0aa3b3cbd020800000000000000
+      internalID: 2367701205532932170
       vertices: []
       indices: 
       edges: []
@@ -151,7 +176,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d276548511e6e974aba70ae8f3753cc2
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +186,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Group 98_0: 729840642494031660
+      Group 157 (3)_0: 5412015603539297487
+      Group 157 (3)_1: 2367701205532932170
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

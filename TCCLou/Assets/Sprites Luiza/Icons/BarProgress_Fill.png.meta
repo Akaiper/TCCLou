@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ebc0fa28fe2e4ed43b647fd4d74f970c
+guid: 8524f9d906d3648489391bcbdc2973d0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 729840642494031660
-    second: Group 98_0
+      213: 4663806976279046502
+    second: BarProgress_Fill_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,23 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Group 98_0
+      name: BarProgress_Fill_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 542
-        height: 438
+        width: 141
+        height: 11
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 58, y: 61, z: 56, w: 113}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c27ef7e823ae02a00800000000000000
-      internalID: 729840642494031660
+      spriteID: 669e91a2cbb29b040800000000000000
+      internalID: 4663806976279046502
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d276548511e6e974aba70ae8f3753cc2
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Group 98_0: 729840642494031660
+      BarProgress_Fill_0: 4663806976279046502
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
