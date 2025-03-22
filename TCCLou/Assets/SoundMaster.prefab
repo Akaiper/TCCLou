@@ -58,6 +58,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   music: {fileID: 8300000, guid: 53443b84fed323343b66508732658ec7, type: 3}
+  gameMusic: {fileID: 8300000, guid: c52edab67c2f042499069b19a3f2b6a3, type: 3}
+  mapMusic: {fileID: 8300000, guid: 53443b84fed323343b66508732658ec7, type: 3}
   buttonClick: {fileID: 8300000, guid: c15d00750cfc355468647ba9125c4e9b, type: 3}
   openWindow: {fileID: 8300000, guid: ddbab9f5de8868f4a90c18fb671ea389, type: 3}
   closeWindow: {fileID: 8300000, guid: ddbab9f5de8868f4a90c18fb671ea389, type: 3}

@@ -110,10 +110,23 @@ namespace Mkey
 
         }
 
+        private void ScoreSave(int score)
+        {
+            HighScoreSave highScoreSave = SaveScore.Load();
+
+            if(highScoreSave.highScore[GameLevelHolder.CurrentLevel] < score)
+            {
+                highScoreSave.highScore[GameLevelHolder.CurrentLevel] = score;
+                SaveScore.Save(highScoreSave);
+            }
+
+        }
+
         private void SetScore(int score)
         {
             if (ScoreCount)
             {
+                ScoreSave(score);
                 int newCount = score;
                 SimpleTween.Cancel(ScoreCount.gameObject, false);
                 SimpleTween.Value(ScoreCount.gameObject, oldCount, newCount, 0.5f).SetOnUpdate((float val) =>

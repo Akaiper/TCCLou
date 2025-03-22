@@ -48,6 +48,11 @@ namespace Mkey
         public UnityEvent<int> ChangeEvent;
         public UnityEvent<List<int>> LoadEvent;
 
+        public int GetScore(int i)
+        {
+            return levelsScore[i];
+        }
+
         private void Awake()
         {
             Load();

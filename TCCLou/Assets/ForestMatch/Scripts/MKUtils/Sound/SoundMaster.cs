@@ -126,6 +126,10 @@ namespace Mkey
         [SerializeField]
         private AudioClip music;
         [SerializeField]
+        public AudioClip gameMusic;
+        [SerializeField]
+        public AudioClip mapMusic;
+        [SerializeField]
         private AudioClip buttonClick;
         [SerializeField]
         private AudioClip openWindow;
@@ -155,6 +159,18 @@ namespace Mkey
 
         #region properties
         public static SoundMaster Instance { get; private set; }
+
+        public void ChangeMusic(int i)
+        {
+            if(i == 1)
+            {
+                music = gameMusic;
+            }
+            else
+            {
+                music = mapMusic;
+            }
+        }
 
         public bool SoundOn
         {

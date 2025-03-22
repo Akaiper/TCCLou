@@ -36,14 +36,44 @@ namespace Mkey
         private LevelConstructSet LCSet => (GCSet) ? GCSet.GetLevelConstructSet(GameLevelHolder.CurrentLevel) : null; 
         #endregion temp wars
 
+        [SerializeField]
+        private Text HighScoreText;
+        private HighScoreSave highScoreSave;
+
+
+
         public override void RefreshWindow()
         {
-            levelText.text = " Level #" + (GameLevelHolder.CurrentLevel +1).ToString();
+            levelText.text = " Level " + (GameLevelHolder.CurrentLevel +1).ToString();
             getScoreText.gameObject.SetActive(MBoard.WinContr.HasScoreTarget);
             scoreText.text = MBoard.WinContr.ScoreTarget.ToString();
+
+            RefreshScoreText();
+
+            
+
             CreateTargets();
             CreateBoostersPanel();
             base.RefreshWindow();
+        }
+
+        private void RefreshScoreText()
+        {
+            string text;
+            int score;
+            highScoreSave = SaveScore.Load();
+
+            text = "High Score: ";
+            score = highScoreSave.highScore[GameLevelHolder.CurrentLevel];
+            
+            if(score > 0)
+            {
+                HighScoreText.text = string.Concat(text, score);
+            }
+            else
+            {
+                HighScoreText.text = "No high score yet";
+            }
         }
 
         public void CreateTargets()
