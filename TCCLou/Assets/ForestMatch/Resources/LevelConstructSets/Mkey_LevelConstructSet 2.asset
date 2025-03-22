@@ -18,7 +18,7 @@ MonoBehaviour:
   horSize: 6
   distX: 0
   distY: 0
-  scale: 0.90000004
+  scale: 1.1
   backGroundNumber: 1
   spawnCells: []
   spawnOffsets: []
@@ -49,6 +49,16 @@ MonoBehaviour:
     - id: 1
       hits: 0
   - row: 1
+    column: 3
+    gridObjects:
+    - id: 1
+      hits: 0
+  - row: 5
+    column: 2
+    gridObjects:
+    - id: 1
+      hits: 0
+  - row: 5
     column: 3
     gridObjects:
     - id: 1

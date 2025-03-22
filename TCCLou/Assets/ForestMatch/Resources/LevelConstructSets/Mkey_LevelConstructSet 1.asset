@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelStartStoryPage: {fileID: 0}
   levelWinStoryPage: {fileID: 0}
-  vertSize: 6
-  horSize: 5
+  vertSize: 7
+  horSize: 6
   distX: 0
   distY: 0
-  scale: 0.90000004
+  scale: 1.1
   backGroundNumber: 2
   spawnCells: []
   spawnOffsets: []
@@ -31,7 +31,7 @@ MonoBehaviour:
     targets:
       list:
       - id: 1000
-        count: 15
+        count: 4
       - id: 400000
         count: 0
       - id: 500001
