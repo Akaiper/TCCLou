@@ -26,12 +26,12 @@ MonoBehaviour:
   levelMission:
     description: Mission
     timeConstrain: 0
-    movesConstrain: 1
+    movesConstrain: 25
     scoreTarget: 0
     targets:
       list:
       - id: 1000
-        count: 4
+        count: 15
       - id: 400000
         count: 0
       - id: 500001

@@ -90,6 +90,7 @@ namespace Mkey
             if (!loaded) Instance.Load();
           //  Debug.Log("level: " + level + "; levelsStars.Count: " + levelsStars.Count);
             if (levelsStars == null || levelsStars.Count == 0 || levelsStars.Count <= level) return 0;
+
             return levelsStars[level];
         }
 

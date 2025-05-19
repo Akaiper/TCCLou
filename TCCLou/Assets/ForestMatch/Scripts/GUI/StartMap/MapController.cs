@@ -103,7 +103,7 @@ namespace Mkey
                     if (SceneLoader.Instance) SceneLoader.Instance.LoadScene(gameSceneOffset);
                 });
                 // activate buttons
-                SetButtonActive(buttonNumber, buttonNumber == topPassedLevel + 2, topPassedLevel + 1 >= buttonNumber);
+                SetButtonActive(buttonNumber, buttonNumber == topPassedLevel + 2, topPassedLevel + 2 >= buttonNumber);
                 MapLevelButtons[i].numberText.text = (buttonNumber).ToString();
             }
 

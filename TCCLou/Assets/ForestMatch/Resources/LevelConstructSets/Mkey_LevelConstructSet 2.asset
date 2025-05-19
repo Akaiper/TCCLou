@@ -24,12 +24,12 @@ MonoBehaviour:
   spawnOffsets: []
   cells:
   - row: 0
-    column: 0
+    column: 5
     gridObjects:
     - id: 1
       hits: 0
   - row: 0
-    column: 5
+    column: 0
     gridObjects:
     - id: 1
       hits: 0
@@ -40,26 +40,6 @@ MonoBehaviour:
       hits: 0
   - row: 5
     column: 5
-    gridObjects:
-    - id: 1
-      hits: 0
-  - row: 1
-    column: 2
-    gridObjects:
-    - id: 1
-      hits: 0
-  - row: 1
-    column: 3
-    gridObjects:
-    - id: 1
-      hits: 0
-  - row: 5
-    column: 2
-    gridObjects:
-    - id: 1
-      hits: 0
-  - row: 5
-    column: 3
     gridObjects:
     - id: 1
       hits: 0

@@ -14,51 +14,41 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelStartStoryPage: {fileID: 0}
   levelWinStoryPage: {fileID: 0}
-  vertSize: 7
-  horSize: 7
+  vertSize: 6
+  horSize: 6
   distX: 0
   distY: 0
-  scale: 0.9
+  scale: 1.1
   backGroundNumber: 1
   spawnCells: []
   spawnOffsets: []
   cells:
-  - row: 0
-    column: 0
-    gridObjects:
-    - id: 1
-      hits: 0
-  - row: 0
+  - row: 1
     column: 2
     gridObjects:
     - id: 1
       hits: 0
-  - row: 0
-    column: 4
-    gridObjects:
-    - id: 1
-      hits: 0
-  - row: 0
-    column: 6
-    gridObjects:
-    - id: 1
-      hits: 0
-  - row: 3
-    column: 2
-    gridObjects:
-    - id: 1
-      hits: 0
-  - row: 3
+  - row: 1
     column: 3
     gridObjects:
     - id: 1
       hits: 0
-  - row: 3
-    column: 4
+  - row: 5
+    column: 5
     gridObjects:
     - id: 1
       hits: 0
-  - row: 4
+  - row: 5
+    column: 0
+    gridObjects:
+    - id: 1
+      hits: 0
+  - row: 3
+    column: 2
+    gridObjects:
+    - id: 1
+      hits: 0
+  - row: 3
     column: 3
     gridObjects:
     - id: 1
@@ -66,15 +56,17 @@ MonoBehaviour:
   levelMission:
     description: Mission
     timeConstrain: 0
-    movesConstrain: 1
+    movesConstrain: 25
     scoreTarget: 0
     targets:
       list:
       - id: 1000
-        count: 10
+        count: 0
       - id: 1001
-        count: 10
+        count: 5
       - id: 1005
-        count: 10
+        count: 5
+      - id: 1004
+        count: 5
   boardJS: 
   usedMatchObjects: []

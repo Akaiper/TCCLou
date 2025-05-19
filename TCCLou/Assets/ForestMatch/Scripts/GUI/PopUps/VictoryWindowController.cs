@@ -101,6 +101,12 @@ namespace Mkey
 
         public void Next_Click()
         {
+            if(GameLevelHolder.CurrentLevel >= 2)
+            {
+                Map_Click();
+                return;
+            }
+
             CloseWindow();
             ShowStory(() =>
             {
