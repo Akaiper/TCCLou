@@ -95,7 +95,7 @@ namespace Mkey
 
                 MapLevelButtons[i].button.onClick.AddListener(() =>
                 {
-                    MSound.SoundPlayClick(0, null);
+                    MSound.SoundPlayButtonClick(0, null);
                     GameLevelHolder.CurrentLevel = currLev;
                     if (LifesHolder.Count <= 0 && !GCSet.UnLimited) { MGui.ShowMessage("Sorry!", "You have no lifes.", 1.5f, () => { MGui.ShowPopUpByDescription("lifeshop"); }); return; }
                     Debug.Log("load scene : " + gameSceneOffset + " ;CurrentLevel: " + GameLevelHolder.CurrentLevel);

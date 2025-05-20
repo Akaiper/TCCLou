@@ -132,6 +132,8 @@ namespace Mkey
         [SerializeField]
         private AudioClip buttonClick;
         [SerializeField]
+        private AudioClip buttonPlayClick;
+        [SerializeField]
         private AudioClip openWindow;
         [SerializeField]
         private AudioClip closeWindow;
@@ -346,6 +348,11 @@ namespace Mkey
         public void SoundPlayClick(float playDelay, Action callBack)
         {
             PlayClip(playDelay, buttonClick, callBack);
+        }
+
+        public void SoundPlayButtonClick(float playDelay, Action callBack)
+        {
+            PlayClip(playDelay, buttonPlayClick, callBack);
         }
 
         public void SoundPlayOpenWindow(float playDelay, Action callBack)

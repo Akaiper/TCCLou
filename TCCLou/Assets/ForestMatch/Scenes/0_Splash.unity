@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 148336576}
   - component: {fileID: 148336575}
   - component: {fileID: 148336578}
+  - component: {fileID: 148336579}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -269,6 +270,19 @@ MonoBehaviour:
   autoLoad: 0
   autoLoadDelay: 0
   autoLoadSceneIndex: 0
+--- !u!114 &148336579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 148336573}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12d70d78377ee34aa0377cb83b56746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clickSound: {fileID: 8300000, guid: 57f85e6cfdbda2e43b658b2895264ac3, type: 3}
 --- !u!1 &284841034
 GameObject:
   m_ObjectHideFlags: 0
@@ -1211,6 +1225,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1125860501193047891, guid: b17447b18a6ff314f812077255460a88,
+        type: 3}
+      propertyPath: openWindow
+      value: 
+      objectReference: {fileID: 8300000, guid: d27cda1623d55c94ea10978b418298c3, type: 3}
+    - target: {fileID: 1125860501193047891, guid: b17447b18a6ff314f812077255460a88,
+        type: 3}
+      propertyPath: buttonClick
+      value: 
+      objectReference: {fileID: 8300000, guid: d27cda1623d55c94ea10978b418298c3, type: 3}
+    - target: {fileID: 1125860501193047891, guid: b17447b18a6ff314f812077255460a88,
+        type: 3}
+      propertyPath: closeWindow
+      value: 
+      objectReference: {fileID: 8300000, guid: c6fde110cb7fa16469165d8ecf8e33cf, type: 3}
+    - target: {fileID: 1125860501193047891, guid: b17447b18a6ff314f812077255460a88,
+        type: 3}
+      propertyPath: buttonPlayClick
+      value: 
+      objectReference: {fileID: 8300000, guid: 57f85e6cfdbda2e43b658b2895264ac3, type: 3}
     - target: {fileID: 4169705703931576581, guid: b17447b18a6ff314f812077255460a88,
         type: 3}
       propertyPath: m_Name
