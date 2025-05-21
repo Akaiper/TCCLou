@@ -1638,7 +1638,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   description: victory
-  openClip: {fileID: 8300000, guid: 37dd97ac8e1e4824dbd80c71a99740aa, type: 3}
+  openClip: {fileID: 0}
   playOpen: 1
   closeClip: {fileID: 0}
   playClose: 1
@@ -1657,6 +1657,9 @@ MonoBehaviour:
   targetPrefab: {fileID: 7251167717725946833, guid: 59fa539adeee1464b9136fe6a59a3f42,
     type: 3}
   targetsContainer: {fileID: 224715964768085064}
+  smallClip: {fileID: 8300000, guid: d3f644d2cbd886243b470f77a192d3f2, type: 3}
+  mediumClip: {fileID: 8300000, guid: 46896cf8dfe62974283cfccaba371788, type: 3}
+  bigClip: {fileID: 8300000, guid: 89bb8d6c44c82c242b4eaaaeb33ffb96, type: 3}
 --- !u!1 &5621750842296051653
 GameObject:
   m_ObjectHideFlags: 0

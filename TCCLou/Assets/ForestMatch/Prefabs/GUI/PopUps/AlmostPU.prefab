@@ -531,7 +531,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   description: almost
-  openClip: {fileID: 8300000, guid: 4a5790086ad06f548a46b21e08dde93b, type: 3}
+  openClip: {fileID: 8300000, guid: be92201d7b92f464bb6245e547d43611, type: 3}
   playOpen: 1
   closeClip: {fileID: 0}
   playClose: 1

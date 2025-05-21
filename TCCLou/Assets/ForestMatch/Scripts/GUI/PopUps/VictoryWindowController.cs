@@ -61,6 +61,15 @@ namespace Mkey
         #endregion temp
 
         #region regular
+        [Space(8)]
+
+        [SerializeField]
+        private AudioClip smallClip;
+        [SerializeField]
+        private AudioClip mediumClip;
+        [SerializeField]
+        private AudioClip bigClip;
+
         private void Start()
         {
             MScore.ChangeEvent.AddListener(SetScore);
@@ -210,6 +219,22 @@ namespace Mkey
                 });
             }
             ts.Start();
+            PlayWinSound(count);
+        }
+
+        private void PlayWinSound(int i)
+        {
+            switch (i)
+            {
+                case 1: Sound.PlayClip(0.2f, smallClip);
+                break;
+                case 2: Sound.PlayClip(0.2f, mediumClip);
+                break;
+                case 3: Sound.PlayClip(0.2f, bigClip);
+                break;
+                default:
+                break;
+            }
         }
 
         private void CreateTargets()

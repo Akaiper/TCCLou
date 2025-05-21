@@ -61,7 +61,7 @@ namespace Mkey
         }
         private Action<PopUpsController> OpenEvent;
         private Action<PopUpsController> CloseEvent;
-        private SoundMaster Sound { get { return SoundMaster.Instance; } }
+        protected SoundMaster Sound { get { return SoundMaster.Instance; } }
         [SerializeField]
         private AudioClip openClip;
         [SerializeField]
