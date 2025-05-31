@@ -109,7 +109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   description: autovictory
-  openClip: {fileID: 8300000, guid: 90f0bd85d2f757a469f43839e1b1bcd0, type: 3}
+  openClip: {fileID: 8300000, guid: 3d2804daa40d6f94ea5d5a00ad60b753, type: 3}
   playOpen: 1
   closeClip: {fileID: 0}
   playClose: 0

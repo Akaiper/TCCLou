@@ -109,7 +109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   description: 30secondsleft
-  openClip: {fileID: 8300000, guid: 429723a7f7f69b245ba4faa5dcec15a1, type: 3}
+  openClip: {fileID: 8300000, guid: 04ac2f41a262d7a40b195532c841f3ca, type: 3}
   playOpen: 1
   closeClip: {fileID: 0}
   playClose: 0

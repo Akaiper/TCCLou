@@ -5,20 +5,35 @@
  */
 namespace Mkey
 {
-    public class StartSound : MonoBehaviour
+  public class StartSound : MonoBehaviour
+  {
+    [SerializeField]
+    private AudioClip startClip;
+
+    public bool isRandom;
+    public AudioClip[] randomClips;
+
+    [SerializeField]
+    private float delay;
+
+    #region temp vars
+    private SoundMaster MSound { get { return SoundMaster.Instance; } }
+    #endregion temp vars
+
+    void Start()
     {
-        [SerializeField]
-        private AudioClip startClip;
-        [SerializeField]
-        private float delay;
-
-        #region temp vars
-        private SoundMaster MSound { get { return SoundMaster.Instance; } }
-        #endregion temp vars
-
-        void Start()
+      if (MSound)
+      {
+        if (!isRandom)
         {
-          if(MSound) MSound.PlayClip(delay, startClip);
+          MSound.PlayClip(delay, startClip);
         }
+        else
+        {
+          MSound.PlayClip(delay, randomClips[Random.Range(0, randomClips.Length)]);
+        }
+      }
+        
     }
+  }
 }
