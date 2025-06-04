@@ -412,8 +412,9 @@ MonoBehaviour:
   LeftStar: {fileID: 114645632857825342}
   MiddleStar: {fileID: 114990344061124940}
   RightStar: {fileID: 114888212794403186}
-  ActiveButtonSprite: {fileID: 21300000, guid: 9d176bb44ffb6274dbd8a043a96cc637, type: 3}
-  LockedButtonSprite: {fileID: 21300000, guid: da24ac39f696ecd47851ac38d350ae94, type: 3}
+  ActiveButtonSprite: {fileID: 0}
+  LockedButtonSprite: {fileID: -7582604050221777724, guid: 2eefb006889c92b4291514d75788a1d1,
+    type: 3}
   lockImage: {fileID: 114658893223450146}
   button: {fileID: 114113021062922492}
   numberText: {fileID: 114733229543486980}

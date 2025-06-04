@@ -1,19 +1,19 @@
 # ninja log v5
-111	1377	7643821406639417	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6a02777fb4b0f315
-164	1639	7643821409269648	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c356de265bc029e9
-1	1381	7643821406639417	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	24189d7b329cd94c
-88	1432	7643821407143822	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b0f71f864f62ce9e
-23	1595	7643821408820851	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	651f64c4e3d993e1
-140	1543	7643821408296707	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f3c672d037b63128
-1994	2150	7643821414289560	C:/Users/lilic/Documents/TCC Luiza/TCCLou/TCCLou/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/in2q301j/obj/arm64-v8a/libgame.so	806ce9b7a3775476
-62	1846	7643821411355853	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6698246c818c411e
-43	1994	7643821412784172	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	9e3f6f8fc80eb35
 43	1050	7643830872893992	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6a02777fb4b0f315
-143	1051	7643830872893992	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b0f71f864f62ce9e
 92	1051	7643830872883968	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	24189d7b329cd94c
-111	1057	7643830872994188	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f3c672d037b63128
 166	1115	7643830873612423	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c356de265bc029e9
+143	1051	7643830872893992	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b0f71f864f62ce9e
+111	1057	7643830872994188	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f3c672d037b63128
 9	1130	7643830873753843	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	651f64c4e3d993e1
 130	1269	7643830875165670	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6698246c818c411e
-30	1354	7643830875987056	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	9e3f6f8fc80eb35
 1354	1495	7643830877376358	C:/Users/lilic/Documents/TCC Luiza/TCCLou/TCCLou/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/in2q301j/obj/arm64-v8a/libgame.so	806ce9b7a3775476
+30	1354	7643830875987056	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	9e3f6f8fc80eb35
+71	977	7707810997789483	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b0f71f864f62ce9e
+7	981	7707810997864675	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6a02777fb4b0f315
+47	982	7707810997889783	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	24189d7b329cd94c
+106	1003	7707810998077292	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f3c672d037b63128
+124	1050	7707810998544528	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c356de265bc029e9
+33	1117	7707810999209814	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	651f64c4e3d993e1
+59	1241	7707811000416405	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6698246c818c411e
+20	1328	7707811001293632	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	9e3f6f8fc80eb35
+1328	2068	7707811008661593	C:/Users/lilic/Documents/TCC Luiza/TCCLou/TCCLou/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/in2q301j/obj/arm64-v8a/libgame.so	806ce9b7a3775476
