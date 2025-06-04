@@ -266,8 +266,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 7628513451113918641, guid: 7d5f7ceb16856104393c31e66eae9e06,
-    type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1c8aef0b487d51444ad899170845c269, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -332,12 +331,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _loadings:
-  - {fileID: 7628513451113918641, guid: 7d5f7ceb16856104393c31e66eae9e06, type: 3}
-  - {fileID: -5751814824985863532, guid: f914a96115f00fe448c30b5fb4a27c9c, type: 3}
-  - {fileID: -1791675174833859170, guid: 10a7e52965818cd49b947e5800b40c15, type: 3}
-  - {fileID: 5929633619284908750, guid: 61d6c2d391506464ea4bbc34f5234bb1, type: 3}
-  - {fileID: -5862271772251511457, guid: 541d1d086e0f48747974d332c0d8855b, type: 3}
-  - {fileID: 6965865332203519670, guid: 23ef5d0ca12f12a47adefadca39ca3a3, type: 3}
+  - {fileID: 21300000, guid: 1c8aef0b487d51444ad899170845c269, type: 3}
+  - {fileID: 21300000, guid: f57a4826b3127394ea59f67551583a67, type: 3}
+  - {fileID: 21300000, guid: baaf30119f259ca48a4ccd7d1c48114e, type: 3}
+  - {fileID: 21300000, guid: a18f6d4335d886341b3350ccf2dab475, type: 3}
+  - {fileID: 21300000, guid: 1be5e7b17efcbcc4d9a0f85a1133daaa, type: 3}
+  - {fileID: 21300000, guid: ce4672c7c2c29c74a98888325c532ae6, type: 3}
   _background: {fileID: 4237303783026974100}
 --- !u!222 &4057024397131390296
 CanvasRenderer:
